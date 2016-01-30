@@ -1,0 +1,23 @@
+{
+  "name": "purescript-language-purescript-pretty",
+  "version": "0.0.1",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-language-purescript-base": "^0.0.3",
+    "purescript-language-purescript-parser-lexer": "^0.0.1",
+    "purescript-language-purescript-codegen-base": "git://github.com/cdepillabout/purescript-language-purescript-codegen-base.git",
+    "purescript-prelude": "^0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cdepillabout/purescript-language-purescript-pretty.git"
+  }
+}
